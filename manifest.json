@@ -11,7 +11,11 @@
     },
     "repository": {
         "repo": "mo-jinran/window-on-top",
-        "branch": "main"
+        "branch": "main",
+        "use_release": {
+            "tag": "0.1.4",
+            "name": "window-on-top.zip"
+        }
     },
     "platform": [
         "win32",
